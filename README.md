@@ -1,2 +1,14 @@
-# repo_pull_request
+# repo\_pull\_request
+
 Lorem ipsum
+
+Tecnologias trabajadas en el proyecto
+
+\-HTML
+
+\-CSS
+
+\-JavaScript
+
+\-Git
+
